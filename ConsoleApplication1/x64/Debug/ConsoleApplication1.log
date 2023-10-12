@@ -1,0 +1,7 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Dell\Documents\OpenMP\ConsoleApplication1\ConsoleApplication1.cpp(8,13): error C3005: '{': unexpected token encountered on OpenMP 'parallel' directive
+C:\Users\Dell\Documents\OpenMP\ConsoleApplication1\ConsoleApplication1.cpp(9,5): error C2062: type 'int' unexpected
+C:\Users\Dell\Documents\OpenMP\ConsoleApplication1\ConsoleApplication1.cpp(10,25): error C2065: 'ID': undeclared identifier
+C:\Users\Dell\Documents\OpenMP\ConsoleApplication1\ConsoleApplication1.cpp(11,27): error C2065: 'ID': undeclared identifier
+C:\Users\Dell\Documents\OpenMP\ConsoleApplication1\ConsoleApplication1.cpp(13,1): error C2059: syntax error: '}'
+C:\Users\Dell\Documents\OpenMP\ConsoleApplication1\ConsoleApplication1.cpp(13,1): error C2143: syntax error: missing ';' before '}'
